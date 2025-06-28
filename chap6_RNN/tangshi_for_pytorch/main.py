@@ -226,11 +226,11 @@ def gen_poem(begin_word):
 
 pretty_print_poem(gen_poem("日"))
 pretty_print_poem(gen_poem("红"))
-pretty_print_poem(gen_poem("山"))
-pretty_print_poem(gen_poem("夜"))
-pretty_print_poem(gen_poem("湖"))
-pretty_print_poem(gen_poem("湖"))
-pretty_print_poem(gen_poem("湖"))
-pretty_print_poem(gen_poem("君"))
+# pretty_print_poem(gen_poem("山"))
+# pretty_print_poem(gen_poem("夜"))
+# pretty_print_poem(gen_poem("湖"))
+# pretty_print_poem(gen_poem("湖"))
+# pretty_print_poem(gen_poem("湖"))
+# pretty_print_poem(gen_poem("君"))
 
 
